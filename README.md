@@ -191,7 +191,7 @@ Curated archive of 11+ international exchange, research internship, and fellowsh
 <br/><br/>
 
 <a href="https://github.com/r-json">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-json&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="55%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=r-json&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="55%" alt="Streak Stats" />
 </a>
 
 <br/><br/>
