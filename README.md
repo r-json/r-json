@@ -1,9 +1,3 @@
-<!-- HEADER / BANNER -->
-<div align="center">
-  <img src="./assets/folklore_header.png" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;" alt="Folklore Cyberpunk Banner" />
-</div>
-
-<br/>
 
 <!-- NAME + TYPING -->
 <div align="center">
