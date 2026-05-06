@@ -23,7 +23,7 @@
 <!-- DYNAMIC SOCIAL PROOF & STATUS -->
 <div align="center">
   <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=123456789&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&font_color=C9D1D9&bar_color=00FFCC&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3132vwmvqyoko473dtriuhzclupe&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&font_color=C9D1D9&bar_color=00FFCC&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </div>
 
