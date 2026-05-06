@@ -1,234 +1,225 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 GITHUB PROFILE README — Arjay Rosel (@r-json)                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║  r-json — GitHub Profile README                                ║ -->
+<!-- ║  Arjay N. Rosel · Full-Stack Developer · AI Researcher         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6C63FF&height=220&section=header&text=Arjay%20Rosel&fontSize=52&fontColor=E6EDF3&fontAlignY=35&desc=Full-Stack%20Developer%20•%20AI%20Researcher%20•%20Blockchain%20Builder&descSize=16&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" />
-
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — clean monospace terminal aesthetic -->
 <a href="https://github.com/r-json">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Building+the+future+with+code+%26+curiosity+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=60&lines=arjay+rosel;full-stack+developer;ai+%2B+blockchain+builder" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-r--json-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-json)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjay_Rosel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjay-rosel-5b4a0b252/)
-[![Portfolio](https://img.shields.io/badge/Opportunities-Portfolio-6C63FF?style=for-the-badge&logo=googleearth&logoColor=white)](https://github.com/r-json/Opportunities)
+<p>
+  <sub>
+    Building at the intersection of applied AI, decentralized systems, and modern web architecture.
+    <br/>
+    Based in the Philippines. Open to international research and collaboration.
+  </sub>
+</p>
 
 <br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=r-json&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/r-json?style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=white&label=Followers)](https://github.com/r-json?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/r-json?style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=white&label=Stars)](https://github.com/r-json?tab=stars)
+<!-- QUICK-ACCESS BADGES -->
+[![GitHub](https://img.shields.io/badge/r--json-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/r-json)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/arjay--rosel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjay-rosel-5b4a0b252/)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=r-json&style=flat-square&color=58A6FF&label=profile+views)
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name: Arjay N. Rosel
-location: Philippines 🇵🇭
-education: Polytechnic University of the Philippines (PUP)
-roles:
-  - Full-Stack Developer
-  - AI / Machine Learning Researcher
-  - Blockchain & Web3 Builder
-communities:
-  - Google Developer Student Clubs (GDSC)
-  - GenAI PH Builders
-  - ASEAN eMpowering Youths (eYAA)
-currently:
-  - 🔭 Building decentralized payroll on Stellar blockchain
-  - 🌱 Exploring agentic AI and LLM applications
-  - 🌏 Pursuing international research & exchange programs
-  - ⚡ Fun fact: "Teach me how to code and I will teach you how to doggie" 🐕
-```
-
-> *I'm a curious builder from the Philippines who sits at the intersection of **AI research**, **blockchain innovation**, and **web development**. I believe technology should be borderless — and so should the people who build it.*
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+<br/>
+
+<!-- ── TECH STACK ─────────────────────────────────────────────────── -->
+
+<h2 align="center">Tech Stack</h2>
+<p align="center"><sub>Languages, frameworks, and tools I work with regularly.</sub></p>
+
+<br/>
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
 
-### ⚙️ Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=58A6FF)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=58A6FF)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=58A6FF)
 
-### 🔗 Blockchain & Web3
-![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
-![Soroban](https://img.shields.io/badge/Soroban-000000?style=for-the-badge&logo=stellar&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+**Frameworks & Libraries**
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=58A6FF)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=58A6FF)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=58A6FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=58A6FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=58A6FF)
+
+**Blockchain & Infrastructure**
+
+![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=58A6FF)
+![Soroban](https://img.shields.io/badge/Soroban-000000?style=for-the-badge&logo=stellar&logoColor=58A6FF)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=58A6FF)
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 Featured Projects
+<br/>
 
-<div align="center">
+<!-- ── FEATURED PROJECTS ─────────────────────────────────────────── -->
+
+<h2 align="center">Featured Projects</h2>
+<p align="center"><sub>Selected work across blockchain, applied AI, and web development.</sub></p>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [CoreFlow](https://github.com/r-json/CoreFlow)
-**Decentralized Payroll Platform**
+<h3 align="center">CoreFlow</h3>
+<p align="center">
+  <a href="https://github.com/r-json/CoreFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=CoreFlow&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="100%" alt="CoreFlow"/>
+  </a>
+</p>
 
-Automate multi-sig payroll with trustless B2B payments. Built on **Stellar Soroban** with **Next.js 14**, featuring Rust-based smart contracts and Freighter wallet integration.
+Decentralized payroll automation built on **Stellar Soroban**. Features multi-sig B2B payments via Rust-based smart contracts, a Next.js 14 dashboard, and Freighter wallet integration for on-chain transparency.
 
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![Stellar](https://img.shields.io/badge/-Stellar-7D00FF?style=flat-square&logo=stellar&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Stellar-000?style=flat-square&logo=stellar&logoColor=58A6FF" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 [AI Sperm Analysis](https://github.com/r-json/Group-3_AI-Sperm-Analysis)
-**AI-Powered Medical Imaging**
+<h3 align="center">AI Sperm Analysis</h3>
+<p align="center">
+  <a href="https://github.com/r-json/Group-3_AI-Sperm-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=Group-3_AI-Sperm-Analysis&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="100%" alt="AI Sperm Analysis"/>
+  </a>
+</p>
 
-Computer vision system for automated sperm motility analysis using deep learning. Research project with real-world medical applications.
+Computer vision pipeline for automated sperm motility assessment using deep learning. Research-grade system with real-world clinical applications in reproductive health diagnostics.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-⭐ 2 Stars · 🍴 1 Fork
+<p>
+  <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Jupyter-000?style=flat-square&logo=jupyter&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv&logoColor=58A6FF" />
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [Web Development Activity](https://github.com/r-json/WebDevelopmentActivity)
-**Full-Stack Web App**
+<h3 align="center">Web Development Activity</h3>
+<p align="center">
+  <a href="https://github.com/r-json/WebDevelopmentActivity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=WebDevelopmentActivity&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="100%" alt="Web Development Activity"/>
+  </a>
+</p>
 
-Laravel/Blade web application showcasing full-stack development skills with modern PHP practices and responsive design.
+Full-stack web application built with Laravel and Blade templating. Demonstrates MVC architecture, responsive design patterns, and modern PHP development practices.
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Bootstrap-000?style=flat-square&logo=bootstrap&logoColor=58A6FF" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌏 [Opportunities Portfolio](https://github.com/r-json/Opportunities)
-**International Programs Archive**
+<h3 align="center">Opportunities Portfolio</h3>
+<p align="center">
+  <a href="https://github.com/r-json/Opportunities">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=Opportunities&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="100%" alt="Opportunities"/>
+  </a>
+</p>
 
-Curated archive of 11+ international exchange, research, and fellowship applications across 8 countries — from Taiwan to Germany.
+Curated archive of 11+ international exchange, research internship, and fellowship applications spanning 8 countries — from Taiwan and Japan to Germany and Singapore.
 
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat-square&logo=markdown)
-![Global](https://img.shields.io/badge/-8_Countries-6C63FF?style=flat-square)
-![Programs](https://img.shields.io/badge/-11_Applications-00C853?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/8_Countries-000?style=flat-square&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/11+_Applications-000?style=flat-square&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Research-000?style=flat-square&logoColor=58A6FF" />
+</p>
 
 </td>
 </tr>
 </table>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- STATS ROW -->
-<a href="https://github.com/r-json">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-json&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=E6EDF3&ring_color=6C63FF&count_private=true&include_all_commits=true" alt="Arjay's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-json&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=E6EDF3&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<a href="https://github.com/r-json">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-json&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161B22&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub Streak" width="700"/>
-</a>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/r-json">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r-json&bg_color=0D1117&color=6C63FF&line=6C63FF&point=E6EDF3&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
-</a>
-
-</div>
-
----
-
-## 🌏 Beyond Code
-
-<div align="center">
-
-```
-🇹🇼 Taiwan  •  🇯🇵 Japan  •  🇰🇷 South Korea  •  🇹🇭 Thailand  •  🇸🇬 Singapore  •  🇮🇳 India  •  🇩🇪 Germany
-```
-
-*Actively pursuing international exchange programs, research internships, and youth leadership summits across* ***8 countries.***
-
-[![Opportunities](https://img.shields.io/badge/📂_View_My_Applications_Portfolio-6C63FF?style=for-the-badge)](https://github.com/r-json/Opportunities)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/r-json" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-r--json-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/arjay-rosel-5b4a0b252/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Arjay_Rosel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:arjayrosel@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-arjayrosel-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-> 💬 *"The world is a book, and those who do not travel read only one page."* — Saint Augustine
 
 <br/>
 
-<!-- CONTRIBUTION SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r-json/r-json/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r-json/r-json/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/r-json/r-json/output/github-snake-dark.svg" width="100%" />
-</picture>
+---
+
+<br/>
+
+<!-- ── GITHUB ANALYTICS ──────────────────────────────────────────── -->
+
+<h2 align="center">GitHub Analytics</h2>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/r-json">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=r-json&show_icons=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/r-json">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-json&layout=compact&theme=transparent&title_color=58A6FF&text_color=C9D1D9&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/r-json">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-json&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="55%" alt="Streak Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/r-json">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r-json&theme=github-dark&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&custom_title=Contribution%20Graph" width="92%" alt="Activity Graph" />
+</a>
 
 </div>
 
-<!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:161B22,100:0D1117&height=120&section=footer" width="100%" />
+<br/>
+
+---
+
+<br/>
+
+<!-- ── FOOTER ────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<p>
+  <a href="https://github.com/r-json"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/arjay-rosel-5b4a0b252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:arjayrosel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<sub>Polytechnic University of the Philippines — Open to research collaboration and international opportunities.</sub>
+
+</div>
