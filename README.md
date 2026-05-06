@@ -1,107 +1,105 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  r-json — GitHub Profile README                                ║ -->
-<!-- ║  Anime / Neon Vibe Redesign                                    ║ -->
+<!-- ║  Folklore / Papery Autumn Redesign                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ANIMATED NEON GRADIENT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,FF007F,7D00FF,00D4FF&height=220&section=header&text=Arjay%20Rosel&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A8%20AI%20%26%20Blockchain&descSize=20&descAlignY=58&fontColor=FFFFFF&animation=twinkling&font_face=M%20PLUS%20Rounded%201c" width="100%" />
+<img src="./assets/folklore_header.png" width="100%" alt="Soft autumn landscape" />
 
-<!-- TYPING ANIMATION (M PLUS Rounded 1c Font) -->
+<br/><br/>
+
 <a href="https://github.com/r-json">
-  <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=600&size=24&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Building+the+future+with+code+and+curiosity+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=26&duration=4000&pause=1000&color=5C4B41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Arjay+Rosel;Full-stack+developer;Building+soft+and+meaningful+things" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES (Pink Accents) -->
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FF007F)](https://github.com/r-json)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=FF007F)](https://www.linkedin.com/in/arjay-rosel-5b4a0b252/)
-![Views](https://komarev.com/ghpvc/?username=r-json&style=for-the-badge&color=161B22&labelColor=161B22&logoColor=FF007F&label=VIEWS)
+> *"I just wanted you to know that this is me trying"*
+
+<a href="https://open.spotify.com/track/7kt9e9ILHj11R5hWnZJdnt"><img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/r-json"><img src="https://img.shields.io/badge/GitHub-FDFBF7?style=flat-square&logo=github&logoColor=5C4B41&labelColor=E3DCD2"/></a>
+<a href="https://www.linkedin.com/in/arjay-rosel-5b4a0b252/"><img src="https://img.shields.io/badge/LinkedIn-FDFBF7?style=flat-square&logo=linkedin&logoColor=5C4B41&labelColor=E3DCD2"/></a>
+<img src="https://komarev.com/ghpvc/?username=r-json&style=flat-square&color=FDFBF7&labelColor=E3DCD2&logoColor=5C4B41&label=VIEWS" />
 
 </div>
 
 <br/>
-
-Hi 👋, I am **Arjay**, an enthusiastic and ambitious full stack developer based in the Philippines. I specialize in Web Development, Applied AI, and Blockchain. I love to network, join new communities and add value ✨
-
-<br/>
-
-<!-- ── STATS & PORTRAIT (SPLIT LAYOUT) ─────────────────────────────── -->
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🔥 GitHub Stats</h3>
-      <a href="https://github.com/r-json">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=r-json&show_icons=true&theme=transparent&title_color=FF007F&text_color=C9D1D9&icon_color=FF007F&hide_border=false&border_color=FF007F&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/r-json">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=r-json&theme=transparent&hide_border=false&border_color=FF007F&border_radius=10&ring=FF007F&fire=FF007F&currStreakLabel=FF007F&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak Stats" />
-      </a>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <!-- GENERATED ANIME PORTRAIT -->
-      <img src="./assets/anime_portrait.png" width="95%" style="border-radius: 10px;" alt="Anime Portrait" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ── TOP PROJECTS (CARDS) ────────────────────────────────────────── -->
-
-### 📁 My Top Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/r-json/CoreFlow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=CoreFlow&theme=transparent&title_color=FF007F&text_color=C9D1D9&icon_color=FF007F&hide_border=false&border_color=FF007F&border_radius=10" width="100%" alt="CoreFlow"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/r-json/Group-3_AI-Sperm-Analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=Group-3_AI-Sperm-Analysis&theme=transparent&title_color=FF007F&text_color=C9D1D9&icon_color=FF007F&hide_border=false&border_color=FF007F&border_radius=10" width="100%" alt="AI Sperm Analysis"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/r-json/WebDevelopmentActivity">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=WebDevelopmentActivity&theme=transparent&title_color=FF007F&text_color=C9D1D9&icon_color=FF007F&hide_border=false&border_color=FF007F&border_radius=10" width="100%" alt="Web Development Activity"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/r-json/Opportunities">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=Opportunities&theme=transparent&title_color=FF007F&text_color=C9D1D9&icon_color=FF007F&hide_border=false&border_color=FF007F&border_radius=10" width="100%" alt="Opportunities Portfolio"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ── TECH STACK (SKILLICONS) ─────────────────────────────────────── -->
-
-### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,rust,php,nextjs,react,laravel,tensorflow,pytorch,docker,git,vercel,html,css&theme=dark" />
+  <sub>
+    A developer from the Philippines blending logic with quiet creativity.<br/>
+    Focused on web development, applied AI, and decentralized systems.
+  </sub>
 </div>
 
 <br/>
 
-<!-- ── CONTRIBUTION GRAPH ──────────────────────────────────────────── -->
+<!-- ── PROJECTS ────────────────────────────────────────────────────── -->
 
-### 🎮 Contribution Graph
+<h3 align="center">Projects</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/r-json/CoreFlow">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=CoreFlow&bg_color=FDFBF7&title_color=5C4B41&text_color=7A6A5E&icon_color=A69382&border_color=E3DCD2&border_radius=5" width="100%" alt="CoreFlow"/>
+        </a>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/r-json/Group-3_AI-Sperm-Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=Group-3_AI-Sperm-Analysis&bg_color=FDFBF7&title_color=5C4B41&text_color=7A6A5E&icon_color=A69382&border_color=E3DCD2&border_radius=5" width="100%" alt="AI Sperm Analysis"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/r-json/WebDevelopmentActivity">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=WebDevelopmentActivity&bg_color=FDFBF7&title_color=5C4B41&text_color=7A6A5E&icon_color=A69382&border_color=E3DCD2&border_radius=5" width="100%" alt="Web Development Activity"/>
+        </a>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/r-json/Opportunities">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-json&repo=Opportunities&bg_color=FDFBF7&title_color=5C4B41&text_color=7A6A5E&icon_color=A69382&border_color=E3DCD2&border_radius=5" width="100%" alt="Opportunities Portfolio"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- ── STATISTICS ──────────────────────────────────────────────────── -->
+
+<h3 align="center">Statistics</h3>
 
 <div align="center">
   <a href="https://github.com/r-json">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=r-json&theme=github-dark&hide_border=false&border_color=FF007F&border_radius=10&bg_color=161B22&color=FF007F&line=FF007F&point=FFFFFF&area=true&area_color=FF007F&custom_title=Contributions" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=r-json&show_icons=true&bg_color=FDFBF7&title_color=5C4B41&text_color=7A6A5E&icon_color=A69382&border_color=E3DCD2&border_radius=5&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/r-json">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-json&layout=compact&bg_color=FDFBF7&title_color=5C4B41&text_color=7A6A5E&icon_color=A69382&border_color=E3DCD2&border_radius=5&langs_count=6" height="180" alt="Top Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/r-json">
+    <img src="https://streak-stats.demolab.com/?user=r-json&bg_color=FDFBF7&title_color=5C4B41&text_color=7A6A5E&icon_color=A69382&border_color=E3DCD2&border_radius=5&ring=A69382&fire=A69382&currStreakLabel=5C4B41&sideLabels=7A6A5E&currStreakNum=5C4B41&sideNums=7A6A5E&dates=A69382" alt="Streak Stats" width="60%" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/r-json">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=r-json&bg_color=FDFBF7&color=5C4B41&line=8C7A6B&point=5C4B41&area=true&area_color=E3DCD2&hide_border=false&border_color=E3DCD2&border_radius=5&custom_title=Activity%20Graph" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E3DCD2&height=2&width=200" />
+</div>
