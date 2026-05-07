@@ -64,4 +64,5 @@
     > system ready<br/>
     <span style="color: #C9D1D9;">[ Open for: Research, Internships & Open-Source ]</span>
   </p>
+  <img src="https://komarev.com/ghpvc/?username=r-json&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
