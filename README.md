@@ -1,117 +1,68 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 GITHUB PROFILE README — Arjay Rosel (@r-json)                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- GitHub profile README for Arjay Rosel (@r-json) -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6C63FF&height=220&section=header&text=Arjay%20Rosel&fontSize=52&fontColor=E6EDF3&fontAlignY=35&desc=Full-Stack%20Developer%20•%20AI%20Researcher%20•%20Blockchain%20Builder&descSize=16&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6C63FF&height=200&section=header&text=Arjay%20Rosel&fontSize=52&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn" width="100%" alt="Arjay Rosel" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/r-json">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Building+the+future+with+code+%26+curiosity+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=520&height=40&lines=Kumusta!+I%27m+Arjay+%F0%9F%91%8B;CS+student+at+PUP+%F0%9F%8E%93;Into+AI%2C+Web3%2C+and+the+web;Building+community+in+tech+%F0%9F%87%B5%F0%9F%87%AD" alt="Kumusta! I'm Arjay. CS student at PUP, into AI, Web3, and the web." />
 
-<br/>
+</div>
 
-<!-- SOCIAL BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-r--json-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-json)
+## Hey there
+
+I'm a fourth-year Computer Science student at the Polytechnic University of the Philippines (PUP). I like building things where AI, blockchain, and the web overlap, and I spend just as much time helping other students find their way into tech.
+
+## What I'm into
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 AI & NLP
+Machine translation research, LLM fine-tuning, and applied deep learning.
+
+</td>
+<td width="33%" valign="top">
+
+### ⛓️ Web3
+Smart contracts on Stellar Soroban, with a focus on trustless payments.
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Web
+Full-stack apps with Next.js, React, and PostgreSQL.
+
+</td>
+</tr>
+</table>
+
+## Right now
+
+- 📚 Finishing my undergrad thesis on machine translation
+- ⛓️ Building a multi-signature payroll platform on Stellar
+- ✈️ Applying to international exchange and research programs
+- 🤝 Co-Founder of **Gen AI Philippines**, Partnership Advisor at **GDG on Campus PUP**, and volunteer with **eYAA**
+
+## Tools I reach for
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,ts,react,nextjs,tailwind,postgres,prisma,rust,docker,linux&theme=dark" alt="Python, PyTorch, TensorFlow, TypeScript, React, Next.js, Tailwind, PostgreSQL, Prisma, Rust, Docker, Linux" />
+
+</div>
+
+## Say hi
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjay_Rosel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjay-rosel-5b4a0b252/)
-[![Portfolio](https://img.shields.io/badge/Opportunities-Portfolio-6C63FF?style=for-the-badge&logo=googleearth&logoColor=white)](https://github.com/r-json/Opportunities)
+[![Email](https://img.shields.io/badge/Email-arjayrosel%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjayrosel@gmail.com)
 
 <br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=r-json&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/r-json?style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=white&label=Followers)](https://github.com/r-json?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/r-json?style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=white&label=Stars)](https://github.com/r-json?tab=stars)
+*Technology should be borderless, and so should the people who build it.*
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name: Arjay N. Rosel
-location: Philippines 🇵🇭
-education: Polytechnic University of the Philippines (PUP)
-roles:
-  - Full-Stack Developer
-  - AI / Machine Learning Researcher
-  - Blockchain & Web3 Builder
-communities:
-  - Google Developer Student Clubs (GDSC)
-  - GenAI PH Builders
-  - ASEAN eMpowering Youths (eYAA)
-currently:
-  - 🔭 Building decentralized payroll on Stellar blockchain
-  - 🌱 Exploring agentic AI and LLM applications
-  - 🌏 Pursuing international research & exchange programs
-  - ⚡ Fun fact: "Teach me how to code and I will teach you how to doggie" 🐕
-```
-
-> *I'm a curious builder from the Philippines who sits at the intersection of **AI research**, **blockchain innovation**, and **web development**. I believe technology should be borderless — and so should the people who build it.*
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### 🔗 Blockchain & Web3
-![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
-![Soroban](https://img.shields.io/badge/Soroban-000000?style=for-the-badge&logo=stellar&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/r-json" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-r--json-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/arjay-rosel-5b4a0b252/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Arjay_Rosel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:arjayrosel@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-arjayrosel-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-> 💬 *"The world is a book, and those who do not travel read only one page."* — Saint Augustine
-
-<br/>
-
-</div>
-
-<!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:161B22,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:161B22,100:0D1117&height=120&section=footer" width="100%" alt="" />
