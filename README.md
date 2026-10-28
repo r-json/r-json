@@ -25,7 +25,7 @@ Machine translation research, LLM fine-tuning, and applied deep learning.
 <td width="33%" valign="top">
 
 ### ⛓️ Web3
-Smart contracts on Stellar Soroban, with a focus on trustless payments.
+Smart contracts on Stellar Soroban, and the developer tooling around them.
 
 </td>
 <td width="33%" valign="top">
@@ -40,9 +40,17 @@ Full-stack apps with Next.js, React, and PostgreSQL.
 ## Right now
 
 - 📚 Finishing my undergrad thesis on machine translation
-- ⛓️ Building a multi-signature payroll platform on Stellar
+- ⛓️ Building [CoreFlow Kit](https://github.com/r-json/CoreFlow), open-source tooling for verifying signed off-chain claims in Soroban contracts
 - ✈️ Applying to international exchange and research programs
 - 🤝 Co-Founder of **Gen AI Philippines**, Partnership Advisor at **GDG on Campus PUP**, and volunteer with **eYAA**
+
+## Featured project
+
+### ⛓️ [CoreFlow Kit](https://github.com/r-json/CoreFlow)
+
+Verify signed off-chain claims in Soroban smart contracts: replay protection, expiry, key rotation, and shared Rust and TypeScript test vectors, plus a browser Workbench for composing, inspecting and debugging claims. Alpha, unaudited, Stellar Testnet only.
+
+`Rust` · `TypeScript` · `Soroban` · `Stellar`
 
 ## Tools I reach for
 
